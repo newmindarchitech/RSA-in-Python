@@ -35,12 +35,13 @@ After installing the essential libraries for this project has been done. You nee
 
 
 
-``` python rsa_interface.py (for the UI of the application) ``` 
+``` python rsa_interface.py (for the UI of the application) 
+    python api.py (for the gateways the UI calls to for each button)
+``` 
 
 
 
 
-``` python api.py (for the gateways the UI calls to for each button)```
 
 ### Limitations
 Although this project works, there are some limitations you need to be aware of:
