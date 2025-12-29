@@ -4,6 +4,12 @@ This repository is a personal Python project that has fully implemented the func
 - Decryption
 - Sign
 - Verify
+
+
+
+
+
+
 The purpose of this repository is the display of my understanding of the RSA algorithm and how I have implemented RSA algorithm in Python
 ## Set up
 In order to clone and run this project into your machine. Here are some commands you need to do
@@ -24,6 +30,11 @@ python -m pip install -r requirements.txt
 
 
 After installing the essential libraries for this project has been done. You need to run these two files
+
+
+
+
+
 ``` python rsa_interface.py (for the UI of the application) ``` 
 
 
