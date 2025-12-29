@@ -24,8 +24,8 @@ python -m pip install -r requirements.txt
 
 
 After installing the essential libraries for this project has been done. You need to run these two files
-''' rsa_interface.py (for the UI of the application) ''' 
-''' api.py (for the gateways the UI calls to for each button)'''
+``` rsa_interface.py (for the UI of the application) ``` 
+``` api.py (for the gateways the UI calls to for each button)```
 
 ### Limitations
 Although this project works, there are some limitations you need to be aware of:
