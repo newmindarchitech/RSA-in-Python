@@ -11,21 +11,25 @@ In order to clone and run this project into your machine. Here are some commands
 At the root of the project, first run this command 
 
 
-'''
+```
 pip install -r requirements.txt 
-'''
+```
 
 
 Alternatively, you can run this command using the latest version of Python that includes pip as part of the installation
 
-'''
+```
 python -m pip install -r requirements.txt
-'''
+```
 
 
 After installing the essential libraries for this project has been done. You need to run these two files
-``` rsa_interface.py (for the UI of the application) ``` 
-``` api.py (for the gateways the UI calls to for each button)```
+``` python rsa_interface.py (for the UI of the application) ``` 
+
+
+
+
+``` python api.py (for the gateways the UI calls to for each button)```
 
 ### Limitations
 Although this project works, there are some limitations you need to be aware of:
